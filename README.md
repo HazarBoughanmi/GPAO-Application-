@@ -57,7 +57,7 @@ So Our application caracteristics:
 
 -Less working time by eliminating paper use
 
--Trace time consumed by the supervisor: the duration of the operation, the start and end dates, the time missing to prepare the necessary resources
+-Trace time consumed by operator: the duration of the operation, the start and end dates, the time missing to prepare the necessary resources
 
 step1:Bizagi Modelling 
 
