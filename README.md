@@ -5,6 +5,7 @@
 Hello All, 
 
 Table of Contents :
+
 1-Project Description
 2-Project Implementation
 3-Digital Manufacturing application:
@@ -13,7 +14,7 @@ Table of Contents :
 4-Technologies
       
 
-***********************************Part1******************************
+**************************************Part1******************************
 
 1-Project Description:
 
@@ -37,7 +38,7 @@ After you have installed prelude , u can download the folder , application ,wher
 
 In purpose to develop more our project and guide it to industry 4.0, we develop the front end of an application called "Saisie de la production" inorded to digitilasing tasks of our supervisors and operators, all of these described well in part2 which is come into collaboration INSAT-WYNSYS
 
-**********************************Part2*********************************
+***************************************Part2*********************************
 
  3-Digital Manufacturing application
 
