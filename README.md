@@ -7,10 +7,14 @@ Hello All,
 Table of Contents :
 
 1-Project Description
+
 2-Project Implementation
+
 3-Digital Manufacturing application:
+
     step1:Bizagi Modelling 
-    step2 : Build Me Front end 
+    step2 : Build Me Front end
+	
 4-Technologies
       
 
