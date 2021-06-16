@@ -4,7 +4,6 @@
 
 Hello All, 
 
-***********************************Part1******************************
 Table of Contents :
 1-Project Description
 2-Project Implementation
@@ -14,6 +13,7 @@ Table of Contents :
 4-Technologies
       
 
+***********************************Part1******************************
 
 1-Project Description:
 
@@ -72,7 +72,8 @@ I hope I have helped you, if anything is not clear or you would like to ask abou
 
 Enjoy!
 
-4-Technologies
+4-Technologies:
+
 ERP:Prelude,Bizagi,Front end:Build Me,Project managment,GPAO  
 
 
